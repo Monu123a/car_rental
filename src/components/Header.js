@@ -26,7 +26,7 @@ const Header = ({ title, showBack = false, showMenu = true }) => {
 const styles = StyleSheet.create({
   header: {
     backgroundColor: '#1976D2',
-    elevation: 6,
+    elevation: 5,
   },
   title: {
     color: '#FFFFFF',
