@@ -62,7 +62,7 @@ const HeroSection = () => {
 const styles = StyleSheet.create({
   container: {
     backgroundColor: '#E3F2FD',
-    paddingVertical: 45,
+    paddingVertical: 42,
     paddingHorizontal: 20,
   },
   heroContent: {
