@@ -159,7 +159,7 @@ const SearchCard = () => {
 
 const styles = StyleSheet.create({
   card: {
-    margin: 18,
+    margin: 16,
     elevation: 8,
     borderRadius: 12,
   },
