@@ -198,7 +198,7 @@ const styles = StyleSheet.create({
     paddingHorizontal: 16,
   },
   carCard: {
-    marginBottom: 16,
+    marginBottom: 18,
     elevation: 5,
     borderRadius: 12,
   },
