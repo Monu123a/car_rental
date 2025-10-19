@@ -403,7 +403,7 @@ const styles = StyleSheet.create({
   bookButton: {
     margin: 16,
     marginBottom: 32,
-    borderRadius: 10,
+    borderRadius: 12,
   },
   bookButtonContent: {
     paddingVertical: 8,
