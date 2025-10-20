@@ -48,7 +48,7 @@ const styles = StyleSheet.create({
   },
   card: {
     elevation: 4,
-    borderRadius: 12,
+    borderRadius: 11,
   },
   providersContainer: {
     flexDirection: 'row',
