@@ -134,7 +134,7 @@ const styles = StyleSheet.create({
     fontSize: 12,
   },
   reviewCard: {
-    width: 290,
+    width: 285,
     marginRight: 16,
     elevation: 4,
     borderRadius: 8,
