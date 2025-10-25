@@ -120,7 +120,7 @@ const Footer = () => {
 const styles = StyleSheet.create({
   container: {
     backgroundColor: '#F5F5F5',
-    paddingTop: 24,
+    paddingTop: 22,
   },
   footerCard: {
     elevation: 0,
