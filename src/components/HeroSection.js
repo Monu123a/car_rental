@@ -103,7 +103,7 @@ const styles = StyleSheet.create({
     lineHeight: 28,
   },
   ctaButton: {
-    borderRadius: 28,
+    borderRadius: 26,
     paddingHorizontal: 30,
   },
   ctaButtonContent: {
