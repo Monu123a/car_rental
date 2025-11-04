@@ -154,7 +154,7 @@ const styles = StyleSheet.create({
   loginCard: {
     elevation: 10,
     borderRadius: 22,
-    backgroundColor: 'rgba(255, 255, 255, 0.98)',
+    backgroundColor: 'rgba(255, 255, 255, 0.96)',
   },
   cardContent: {
     padding: 24,
