@@ -4,7 +4,7 @@ const theme = {
   ...MD3LightTheme,
   colors: {
     ...MD3LightTheme.colors,
-    primary: '#1A77D3',
+    primary: '#1976D2',
     secondary: '#FFC107',
     background: '#FFFFFF',
     surface: '#F5F5F5',
